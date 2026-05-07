@@ -30,15 +30,14 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ---
-
 ### 📌 Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|-------------|-------------|
-| [**Anime Recommendation System**](https://github.com/SavageCat05) | Neural-network-based anime recommendation engine with collaborative and content-based filtering | `Python`, `TensorFlow`, `Pandas`, `Streamlit` |
-| [**FSRO Optimization Algorithm**](https://github.com/SavageCat05) | Frog-Snake Reproduction Optimization algorithm with convergence and diversity enhancements for benchmark optimization problems | `Python`, `NumPy`, `Matplotlib` |
-| [**Brain Tumor Research Projects**](https://github.com/SavageCat05) | Research-focused AI and biomedical signal processing work involving brain-wave analysis and intelligent systems | `Python`, `ML`, `Signal Processing` |
-
+| [**Brain Tumor & Brain Wave Research Projects**](https://github.com/SavageCat05) | AI-driven biomedical and signal-processing research focused on brain-wave interpretation, intelligent healthcare systems, and explainable machine learning for healthcare applications. | `Python`, `Machine Learning`, `Signal Processing`, `Deep Learning` |
+| [**Kuwait Pilot Employee Transportation Optimization**](https://github.com/SavageCat05) | Demand-driven employee shuttle optimization system for Kuwait pilot operations. Builds and schedules transport trips under a strict 13-bus concurrency cap using OR-Tools, routing optimization, repair-based scheduling, and employer-ready operational exports in D#/T# format. | `Python`, `OR-Tools`, `Pandas`, `Scheduling`, `Route Optimization` |
+| [**Fuzzy-Monotonic LightGBM for Explainable Credit Default Prediction**](https://github.com/SavageCat05) | Hybrid explainable AI framework combining fuzzy linguistic reasoning with monotonic LightGBM constraints for regulatory-compliant credit default prediction with SHAP-based interpretability and calibrated risk scoring. :contentReference[oaicite:0]{index=0} | `Python`, `LightGBM`, `SHAP`, `Explainable AI`, `Machine Learning` |
+| [**FSRO Optimization Algorithm**](https://github.com/SavageCat05) | Frog-Snake Reproduction Optimization algorithm with convergence and diversity enhancements for CEC benchmark and engineering optimization problems. | `Python`, `NumPy`, `Matplotlib`, `Optimization` |
 ---
 
 ### 🧠 Currently Exploring
