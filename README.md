@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey+👋+I'm+Anshuman;AI%2FML+Developer;Research+Enthusiast;Tennis+Player" />
-</p>
+<h1 align="center">Hey 👋, I'm Anshuman</h1>
 <h3 align="center">AI/ML Developer | Research Enthusiast | Tennis Player 🇮🇳</h3>
 
 ---
