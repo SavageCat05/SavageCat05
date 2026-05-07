@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshuman Raj</h1>
+<h1 align="center"> Hey! I'm Anshuman </h1>
 <h3 align="center">AI/ML Developer | Research Enthusiast | Tennis Player 🇮🇳</h3>
 
 ---
