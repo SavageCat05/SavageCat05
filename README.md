@@ -41,14 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Anshuman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavageCat05&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SavageCat05&layout=compact&theme=tokyonight)
-
----
-
 ### 🧠 Currently Exploring
 
 - Brain Wave Analysis
