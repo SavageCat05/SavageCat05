@@ -1,4 +1,6 @@
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hey+!+I'm+Anshuman++)](https://git.io/typing-svg) </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey+👋+I'm+Anshuman;AI%2FML+Developer;Research+Enthusiast;Tennis+Player" />
+</p>
 <h3 align="center">AI/ML Developer | Research Enthusiast | Tennis Player 🇮🇳</h3>
 
 ---
