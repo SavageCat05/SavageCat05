@@ -3,7 +3,7 @@
 
 ---
 
-🔭 I’m currently working on **System Design, DevOps, and AI-based projects**  
+🔭 I’m currently working on **System Design and AI-based projects**  
 🌱 Currently learning **Brain Wave Research, Deep Learning Architectures, and Optimization Algorithms**  
 👯 Looking to collaborate on **Open Source and AI Research Projects**  
 🤝 Looking for help with **Scalable System Design and Cloud Infrastructure**  
@@ -19,7 +19,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
