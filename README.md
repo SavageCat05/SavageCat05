@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👨‍💻, I'm Anshuman</h1>
-<h3 align="center">AI/ML Developer | Research Enthusiast | Tennis Player 🇮🇳</h3>
+<h3 align="center">AI/ML Developer | Research Enthusiast | Lawn Tennis Player 🇮🇳</h3>
 
 ---
 
