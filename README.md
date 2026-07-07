@@ -3,7 +3,7 @@
 
 ---
 
-🔭 I’m currently working on **System Design and AI-based projects**  
+🔭 I’m currently working on **System Design  and AI-based projects**  
 🌱 Currently learning **Brain Wave Research, Deep Learning Architectures, and Optimization Algorithms**  
 👯 Looking to collaborate on **Open Source and AI Research Projects**  
 🤝 Looking for help with **Scalable System Design and Cloud Infrastructure**  
